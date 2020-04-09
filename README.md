@@ -44,7 +44,7 @@ Você poderá usar a aplicação para codificar ou decodificar uma mensagem.
 1. Node.js e Yarn instalado
 
 ****
-### 🚀 3. Rodando o projeto localmente
+### 🚀 Rodando o projeto localmente
 
 ****
 
