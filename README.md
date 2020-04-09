@@ -1,10 +1,10 @@
-# Laboratória -4ª Geração :two_hearts: 
-***
-### :zap: Projeto: Cifra de César
+# Laboratória - 4ª Geração :two_hearts: 
 
+****
+## :key: Projeto: Cifra de César
 ***
 
-## :star: 1. Prefácio
+### 1. Prefácio
 
 Cifrar significa codificar. A [cifra de
 César](https://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar) é um dos primeiros
@@ -31,20 +31,20 @@ com facilidade e não oferecem muita segurança na comunição, mas a cifra de C
 muitas vezes pode fazer parte de um sistema mais complexo de criptografia, como
 a cifra de Vigenère, e tem aplicação no sistema ROT13.
 
-## 2. Resumo do projeto
+### 2. Resumo do projeto
 
 Neste projeto você poderá cifrar e decrifrar um texto
 indicando a chave de deslocamento.
 
-Você poderá usar a aplicação para codificar ou descodificar uma mensagem.
+Você poderá usar a aplicação para codificar ou decodificar uma mensagem.
 
-## :warning: Pré-Requisitos:
-
+****
+### :warning: Pré-Requisitos:
 ****
 1. Node.js e Yarn instalado
 
-
-## 🚀 3. Rodando o projeto localmente
+****
+### 🚀 3. Rodando o projeto localmente
 
 ****
 
@@ -77,12 +77,12 @@ yarn start
 ```sh
 http://localhost:3000
 ```
-* 
 
-### :satisfied: Entender a lógica do projeto
-
+****
+### :satisfied: Entender a lógica da Cifra de César
+****
 A seguir um vídeo do instrutor Daniel que te ajudará a entender a fórmula matemática usada
-pela Cifra de César e algumas coisas mais que deve saber para entender a fórmula usada.
+pela Cifra de César.
 
 [![Dicas Cifra de
 César](https://img.youtube.com/vi/utiLWBXmNQU/0.jpg)](https://www.youtube.com/watch?v=utiLWBXmNQU)
