@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Cifra de César</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="flex">
+  <div class="header" role="alert">
+    <img src="img/logo.jpg" class="logo">
+  </div>
+  <div id="root">
+    <h1>Cifra de César</h1>
+    <div class="fundo-form">
+      <form class="form">
+       <label class="msg">Mensagem:</label><br>
+        <textarea style="resize: none" type="text" id="texto" maxlength="1000" rows="10" cols="50" required autofocus
+          placeholder="Escreva o seu texto..."></textarea><br><br>
+        <label class="txtchave">Nº Chave:</label>
+        <input type="text" id="chave" required /><br><br>
+        <button type="button" class="button" id="encode">Codificar</button>
+        <button type="reset" class="button" id="limpar">Limpar</button>
+        <button type="button" class="button" id="decode">Decodificar</button>
+        <br><br>
+        <textarea style="resize: none" type="text" id="resultado" maxlength="1000" rows="10"
+          cols="50" placeholder="... o resultado aparecerá aqui."></textarea>
+      </form><br>
+    </div>
+     <footer>
+      <p>© Copyright Milena Ferraz </p>
+    </footer>
+  </div>
+  <script src="index.js" type="module"></script>
+</body>
+</html>
